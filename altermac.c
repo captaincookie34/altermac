@@ -79,5 +79,3 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-
-// current_mac = "08:00:27:c3:23:37";
