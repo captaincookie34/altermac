@@ -11,6 +11,7 @@ make clean
 make
 sudo ./altermac eth0
 ```
+
 - The above command changes the MAC address of your `eth0` interface
 - Looking at the `eth0` interface by running `ifconfig`, you should be able to see that the MAC address under `ether` has changed
 
